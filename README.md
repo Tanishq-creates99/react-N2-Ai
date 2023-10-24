@@ -1,4 +1,4 @@
-<img width="680" alt="Screenshot 2023-10-24 at 12 54 49 PM" src="https://github.com/Tanishq-creates99/react-N2-Ai/assets/81093066/5a236f8b-d460-46e3-97cf-eb54541c739c"><H1> Ai Based React Native app </H1>
+<h1> AI based Cross platform app</h1>
 <p>- API Integration of Chatgpt-3.5, davinci-003 , DALL-E</p>
 <P>- Conversation model based design for texting experience </P>
 <P>- Tech = React Native , open ai api </P>
